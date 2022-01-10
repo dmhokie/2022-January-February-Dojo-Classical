@@ -33,14 +33,14 @@
 [Round "1"]
 [White "angryspacevoid"]
 [Black "ImminentLossForMe"]
-[Result "*"]
+[Result "0-0"]
 [Section "1775+"]
 [WhiteId "not a claimed account at all but @stephen"]
 [WhiteElo "2080"]
 [BlackElo "1882"]
 
 {[%SevillaID "1735"]}
-*
+0-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -96,7 +96,7 @@
 [Round "1"]
 [White "davalb"]
 [Black "Musiclife"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "Ding Liren#8638"]
 [BlackId "AngelOfMusic#4626"]
@@ -104,7 +104,7 @@
 [BlackElo "1790"]
 
 {[%SevillaID "1745"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -190,14 +190,14 @@
 [Round "1"]
 [White "sloppydisk"]
 [Black "SuntRoman11"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "blob#9129"]
 [WhiteElo "1813"]
 [BlackElo "1942"]
 
 {[%SevillaID "1742"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -205,14 +205,14 @@
 [Round "1"]
 [White "sweetiepawn"]
 [Black "AnarchyPawn2002"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1775+"]
 [BlackId "Chiefawesome#1056"]
 [WhiteElo "1802"]
 [BlackElo "1919"]
 
 {[%SevillaID "1744"]}
-*
+1/2-1/2
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
