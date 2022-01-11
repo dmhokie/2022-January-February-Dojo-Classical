@@ -172,21 +172,6 @@
 [Site ""]
 [Date "2022.01.10"]
 [Round "2"]
-[White "Oblivious-Pineapple"]
-[Black "Naurelius"]
-[Result "*"]
-[Section "1400-1774"]
-[WhiteId "explainmyself#6018"]
-[WhiteElo "1430"]
-[BlackElo "1520"]
-
-{[%SevillaID "1804"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.10"]
-[Round "2"]
 [White "StoppedClock"]
 [Black "Audiophile 8"]
 [Result "*"]
