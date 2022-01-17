@@ -2,61 +2,17 @@
 [Site ""]
 [Date "2022.01.10"]
 [Round "2"]
-[White "chessterfish"]
-[Black "ACutePuppie"]
-[Result "0-1"]
+[White "amitt09"]
+[Black "sloppydisk"]
+[Result "1-0"]
 [Section "1775+"]
-[WhiteId "chessterfish#7997"]
-[BlackId "Puppie#9686"]
-[WhiteElo "1900"]
-[BlackElo "2278"]
+[WhiteId "amitbhattrai#8849"]
+[BlackId "blob#9129"]
+[WhiteElo "1958"]
+[BlackElo "1813"]
 
-{[%SevillaID "1808"]}
-0-1
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.10"]
-[Round "2"]
-[White "KaranGite"]
-[Black "ada1977"]
-[Result "1/2-1/2"]
-[Section "1775+"]
-[WhiteElo "1866"]
-[BlackElo "1930"]
-
-{[%SevillaID "1821"]}
-1/2-1/2
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.10"]
-[Round "2"]
-[White "KingSideInvasion"]
-[Black "angryspacevoid"]
-[Result "*"]
-[Section "1775+"]
-[BlackId "not a claimed account at all but @stephen"]
-[WhiteElo "1890"]
-[BlackElo "2080"]
-
-{[%SevillaID "1816"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.10"]
-[Round "2"]
-[White "SuntRoman11"]
-[Black "averagepatzer540"]
-[Result "1/2-1/2"]
-[Section "1775+"]
-[BlackId "The Slowest #1659"]
-[WhiteElo "1942"]
-[BlackElo "1778"]
-
-{[%SevillaID "1820"]}
-1/2-1/2
+{[%SevillaID "1811"]}
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -64,7 +20,7 @@
 [Round "2"]
 [White "AnarchyPawn2002"]
 [Black "BigFish005"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "Chiefawesome#1056"]
 [BlackId "Bigfish#5479"]
@@ -72,22 +28,6 @@
 [BlackElo "1813"]
 
 {[%SevillaID "1815"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.10"]
-[Round "2"]
-[White "Musiclife"]
-[Black "Constantine73"]
-[Result "1-0"]
-[Section "1775+"]
-[WhiteId "AngelOfMusic#4626"]
-[BlackId "Constantine#1211"]
-[WhiteElo "1790"]
-[BlackElo "1900"]
-
-{[%SevillaID "1822"]}
 1-0
 
 [Event "2022 January/February Dojo Classical"]
@@ -110,21 +50,6 @@
 [Site ""]
 [Date "2022.01.10"]
 [Round "2"]
-[White "MajorBatata"]
-[Black "garridobrown"]
-[Result "*"]
-[Section "1775+"]
-[BlackId "diechess#8166"]
-[WhiteElo "2031"]
-[BlackElo "1883"]
-
-{[%SevillaID "1817"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.10"]
-[Round "2"]
 [White "backrankbrawler"]
 [Black "HarshSaberTwitch"]
 [Result "1-0"]
@@ -135,6 +60,128 @@
 [BlackElo "2011"]
 
 {[%SevillaID "1813"]}
+1-0
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.10"]
+[Round "2"]
+[White "chessterfish"]
+[Black "ACutePuppie"]
+[Result "0-1"]
+[Section "1775+"]
+[WhiteId "chessterfish#7997"]
+[BlackId "Puppie#9686"]
+[WhiteElo "1900"]
+[BlackElo "2278"]
+
+{[%SevillaID "1808"]}
+0-1
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.10"]
+[Round "2"]
+[White "ImminentLossForMe"]
+[Black "lootikfc"]
+[Result "0-1"]
+[Section "1775+"]
+[BlackId "lootikfc#0672"]
+[WhiteElo "1882"]
+[BlackElo "1943"]
+
+{[%SevillaID "1819"]}
+0-1
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.10"]
+[Round "2"]
+[White "KaranGite"]
+[Black "ada1977"]
+[Result "1/2-1/2"]
+[Section "1775+"]
+[WhiteElo "1866"]
+[BlackElo "1930"]
+
+{[%SevillaID "1821"]}
+1/2-1/2
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.10"]
+[Round "2"]
+[White "KingSideInvasion"]
+[Black "angryspacevoid"]
+[Result "0-0"]
+[Section "1775+"]
+[BlackId "not a claimed account at all but @stephen"]
+[WhiteElo "1890"]
+[BlackElo "2080"]
+
+{[%SevillaID "1816"]}
+0-0
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.10"]
+[Round "2"]
+[White "MajorBatata"]
+[Black "garridobrown"]
+[Result "1/2-1/2"]
+[Section "1775+"]
+[BlackId "diechess#8166"]
+[WhiteElo "2031"]
+[BlackElo "1883"]
+
+{[%SevillaID "1817"]}
+1/2-1/2
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.10"]
+[Round "2"]
+[White "Musiclife"]
+[Black "Constantine73"]
+[Result "1-0"]
+[Section "1775+"]
+[WhiteId "AngelOfMusic#4626"]
+[BlackId "Constantine#1211"]
+[WhiteElo "1790"]
+[BlackElo "1900"]
+
+{[%SevillaID "1822"]}
+1-0
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.10"]
+[Round "2"]
+[White "Prab76"]
+[Black "Mr Wafhletruck"]
+[Result "0-1"]
+[Section "1775+"]
+[WhiteId "Prab76#5267"]
+[BlackId "Mr. Madness (Mr. Waffletruck)#7954"]
+[WhiteElo "2226"]
+[BlackElo "1874"]
+
+{[%SevillaID "1809"]}
+0-1
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.10"]
+[Round "2"]
+[White "riobicajet"]
+[Black "sweetiepawn"]
+[Result "1-0"]
+[Section "1775+"]
+[WhiteId "riobicajet#8166"]
+[WhiteElo "2000"]
+[BlackElo "1802"]
+
+{[%SevillaID "1814"]}
 1-0
 
 [Event "2022 January/February Dojo Classical"]
@@ -157,68 +204,6 @@
 [Site ""]
 [Date "2022.01.10"]
 [Round "2"]
-[White "ImminentLossForMe"]
-[Black "lootikfc"]
-[Result "0-1"]
-[Section "1775+"]
-[BlackId "lootikfc#0672"]
-[WhiteElo "1882"]
-[BlackElo "1943"]
-
-{[%SevillaID "1819"]}
-0-1
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.10"]
-[Round "2"]
-[White "Prab76"]
-[Black "Mr Wafhletruck"]
-[Result "0-1"]
-[Section "1775+"]
-[WhiteId "Prab76#5267"]
-[BlackId "Mr. Madness (Mr. Waffletruck)#7954"]
-[WhiteElo "2226"]
-[BlackElo "1874"]
-
-{[%SevillaID "1809"]}
-0-1
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.10"]
-[Round "2"]
-[White "amitt09"]
-[Black "sloppydisk"]
-[Result "1-0"]
-[Section "1775+"]
-[WhiteId "amitbhattrai#8849"]
-[BlackId "blob#9129"]
-[WhiteElo "1958"]
-[BlackElo "1813"]
-
-{[%SevillaID "1811"]}
-1-0
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.10"]
-[Round "2"]
-[White "riobicajet"]
-[Black "sweetiepawn"]
-[Result "1-0"]
-[Section "1775+"]
-[WhiteId "riobicajet#8166"]
-[WhiteElo "2000"]
-[BlackElo "1802"]
-
-{[%SevillaID "1814"]}
-1-0
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.10"]
-[Round "2"]
 [White "snuk-snuk"]
 [Black "Vigg-Sama"]
 [Result "1-0"]
@@ -229,5 +214,20 @@
 
 {[%SevillaID "1810"]}
 1-0
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.10"]
+[Round "2"]
+[White "SuntRoman11"]
+[Black "averagepatzer540"]
+[Result "1/2-1/2"]
+[Section "1775+"]
+[BlackId "The Slowest #1659"]
+[WhiteElo "1942"]
+[BlackElo "1778"]
+
+{[%SevillaID "1820"]}
+1/2-1/2
 
 

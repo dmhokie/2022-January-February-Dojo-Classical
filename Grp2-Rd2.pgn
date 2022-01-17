@@ -4,7 +4,7 @@
 [Round "2"]
 [White "AfterEightTea"]
 [Black "alt0violistic"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "AfterEightTea#6039"]
 [BlackId "Kuba_B#5438"]
@@ -12,7 +12,7 @@
 [BlackElo "1230"]
 
 {[%SevillaID "1772"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -51,14 +51,14 @@
 [Round "2"]
 [White "constructor-1"]
 [Black "IGotJediKnightsYo"]
-[Result "1-0"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "miclwold #7961"]
 [WhiteElo "1012"]
 [BlackElo "1194"]
 
 {[%SevillaID "1784"]}
-1-0
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -240,7 +240,7 @@
 [Round "2"]
 [White "S0lm0"]
 [Black "Sandh0g"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1400"]
 [WhiteId "s0lm0#6052"]
 [BlackId "Sandh0g"]
@@ -248,7 +248,7 @@
 [BlackElo "1057"]
 
 {[%SevillaID "1789"]}
-*
+0-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -352,7 +352,7 @@
 [Round "2"]
 [White "thorsthunderr"]
 [Black "sinewave13"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1400"]
 [WhiteId "thorsthunder#4308"]
 [BlackId "sinewave1474"]
@@ -360,6 +360,6 @@
 [BlackElo "1204"]
 
 {[%SevillaID "1776"]}
-*
+1/2-1/2
 
 
