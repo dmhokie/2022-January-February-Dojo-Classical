@@ -4,7 +4,7 @@
 [Round "1"]
 [White "ACutePuppie"]
 [Black "falk312"]
-[Result "1-0"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "Puppie#9686"]
 [BlackId "Falk#8401"]
@@ -21,7 +21,7 @@ exd4 13. Qxd4 f6 14. O-O-O Nd7 15. b4 Bh6+ 16. f4 Kf7 17. Bc4 Kf8 18. g5 Bg7 19.
 Bb3 fxg5 20. e5 gxf4 21. Qxf4+ Ke8 22. e6 Ne5 23. Rhe1 Rf8 24. Qd4 Bh6+ 25. Kb1
 Nf3 26. Qb2 Nxe1 27. Rxe1 b5 28. e7 Be6 29. Rxe6 Rf1+ 30. Ka2 Qc8 31. Qh8+ Kf7
 32. Rf6+ Rxf6 33. e8=Q+ Qxe8 34. Qxf6+ Kg8 35. Ne7# 1-0 
-1-0
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]

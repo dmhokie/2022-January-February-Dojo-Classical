@@ -4,7 +4,7 @@
 [Round "3"]
 [White "ACutePuppie"]
 [Black "Renek13"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "Puppie#9686"]
 [BlackId "Renek#6846"]
@@ -12,7 +12,7 @@
 [BlackElo "2015"]
 
 {[%SevillaID "1837"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
