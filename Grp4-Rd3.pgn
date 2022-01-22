@@ -17,31 +17,14 @@
 [Site ""]
 [Date "2022.01.17"]
 [Round "3"]
-[White "Mr Wafhletruck"]
-[Black "amitt09"]
+[White "ada1977"]
+[Black "sweetiepawn"]
 [Result "*"]
 [Section "1775+"]
-[WhiteId "Mr. Madness (Mr. Waffletruck)#7954"]
-[BlackId "amitbhattrai#8849"]
-[WhiteElo "1874"]
-[BlackElo "1958"]
+[WhiteElo "1930"]
+[BlackElo "1802"]
 
-{[%SevillaID "1895"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.17"]
-[Round "3"]
-[White "Bob Cohen"]
-[Black "riobicajet"]
-[Result "*"]
-[Section "1775+"]
-[BlackId "riobicajet#8166"]
-[WhiteElo "1825"]
-[BlackElo "2000"]
-
-{[%SevillaID "1896"]}
+{[%SevillaID "1906"]}
 *
 
 [Event "2022 January/February Dojo Classical"]
@@ -50,7 +33,7 @@
 [Round "3"]
 [White "AnarchyPawn2002"]
 [Black "b1under fest"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteId "Chiefawesome#1056"]
 [BlackId "merls"]
@@ -58,39 +41,7 @@
 [BlackElo "1775"]
 
 {[%SevillaID "1897"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.17"]
-[Round "3"]
-[White "davalb"]
-[Black "backrankbrawler"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "Ding Liren#8638"]
-[BlackId "backrankbrawler#4978"]
-[WhiteElo "1908"]
-[BlackElo "1833"]
-
-{[%SevillaID "1898"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.17"]
-[Round "3"]
-[White "ntwapo16"]
-[Black "Prab76"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "Ethan W (ntwapo16) #0553"]
-[BlackId "Prab76#5267"]
-[WhiteElo "1846"]
-[BlackElo "2226"]
-
-{[%SevillaID "1899"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -106,98 +57,6 @@
 [BlackElo "1900"]
 
 {[%SevillaID "1900"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.17"]
-[Round "3"]
-[White "Vigg-Sama"]
-[Black "Musiclife"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "Vigg-Sama#5567"]
-[BlackId "AngelOfMusic#4626"]
-[WhiteElo "2000"]
-[BlackElo "1790"]
-
-{[%SevillaID "1901"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.17"]
-[Round "3"]
-[White "iridescentmollusc"]
-[Black "ehoner8"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "LouisBoBo#4702"]
-[BlackId "ehoner8 (#0082)"]
-[WhiteElo "1829"]
-[BlackElo "1980"]
-
-{[%SevillaID "1902"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.17"]
-[Round "3"]
-[White "sloppydisk"]
-[Black "lootikfc"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "blob#9129"]
-[BlackId "lootikfc#0672"]
-[WhiteElo "1813"]
-[BlackElo "1943"]
-
-{[%SevillaID "1903"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.17"]
-[Round "3"]
-[White "HarshSaberTwitch"]
-[Black "KaranGite"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "Harshsaber#0670"]
-[WhiteElo "2011"]
-[BlackElo "1866"]
-
-{[%SevillaID "1904"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.17"]
-[Round "3"]
-[White "garridobrown"]
-[Black "SuntRoman11"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "diechess#8166"]
-[WhiteElo "1883"]
-[BlackElo "1942"]
-
-{[%SevillaID "1905"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.17"]
-[Round "3"]
-[White "ada1977"]
-[Black "sweetiepawn"]
-[Result "*"]
-[Section "1775+"]
-[WhiteElo "1930"]
-[BlackElo "1802"]
-
-{[%SevillaID "1906"]}
 *
 
 [Event "2022 January/February Dojo Classical"]
@@ -220,6 +79,83 @@
 [Site ""]
 [Date "2022.01.17"]
 [Round "3"]
+[White "Bob Cohen"]
+[Black "riobicajet"]
+[Result "1-0"]
+[Section "1775+"]
+[BlackId "riobicajet#8166"]
+[WhiteElo "1825"]
+[BlackElo "2000"]
+
+{[%SevillaID "1896"]}
+1-0
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.17"]
+[Round "3"]
+[White "davalb"]
+[Black "backrankbrawler"]
+[Result "1-0"]
+[Section "1775+"]
+[WhiteId "Ding Liren#8638"]
+[BlackId "backrankbrawler#4978"]
+[WhiteElo "1908"]
+[BlackElo "1833"]
+
+{[%SevillaID "1898"]}
+1-0
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.17"]
+[Round "3"]
+[White "garridobrown"]
+[Black "SuntRoman11"]
+[Result "*"]
+[Section "1775+"]
+[WhiteId "diechess#8166"]
+[WhiteElo "1883"]
+[BlackElo "1942"]
+
+{[%SevillaID "1905"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.17"]
+[Round "3"]
+[White "HarshSaberTwitch"]
+[Black "KaranGite"]
+[Result "*"]
+[Section "1775+"]
+[WhiteId "Harshsaber#0670"]
+[WhiteElo "2011"]
+[BlackElo "1866"]
+
+{[%SevillaID "1904"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.17"]
+[Round "3"]
+[White "iridescentmollusc"]
+[Black "ehoner8"]
+[Result "*"]
+[Section "1775+"]
+[WhiteId "LouisBoBo#4702"]
+[BlackId "ehoner8 (#0082)"]
+[WhiteElo "1829"]
+[BlackElo "1980"]
+
+{[%SevillaID "1902"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.17"]
+[Round "3"]
 [White "KingSideInvasion"]
 [Black "Constantine73"]
 [Result "*"]
@@ -229,6 +165,70 @@
 [BlackElo "1900"]
 
 {[%SevillaID "1908"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.17"]
+[Round "3"]
+[White "Mr Wafhletruck"]
+[Black "amitt09"]
+[Result "0-1"]
+[Section "1775+"]
+[WhiteId "Mr. Madness (Mr. Waffletruck)#7954"]
+[BlackId "amitbhattrai#8849"]
+[WhiteElo "1874"]
+[BlackElo "1958"]
+
+{[%SevillaID "1895"]}
+0-1
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.17"]
+[Round "3"]
+[White "ntwapo16"]
+[Black "Prab76"]
+[Result "*"]
+[Section "1775+"]
+[WhiteId "Ethan W (ntwapo16) #0553"]
+[BlackId "Prab76#5267"]
+[WhiteElo "1846"]
+[BlackElo "2226"]
+
+{[%SevillaID "1899"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.17"]
+[Round "3"]
+[White "sloppydisk"]
+[Black "lootikfc"]
+[Result "0-1"]
+[Section "1775+"]
+[WhiteId "blob#9129"]
+[BlackId "lootikfc#0672"]
+[WhiteElo "1813"]
+[BlackElo "1943"]
+
+{[%SevillaID "1903"]}
+0-1
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.17"]
+[Round "3"]
+[White "Vigg-Sama"]
+[Black "Musiclife"]
+[Result "*"]
+[Section "1775+"]
+[WhiteId "Vigg-Sama#5567"]
+[BlackId "AngelOfMusic#4626"]
+[WhiteElo "2000"]
+[BlackElo "1790"]
+
+{[%SevillaID "1901"]}
 *
 
 
