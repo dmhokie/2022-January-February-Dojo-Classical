@@ -4,14 +4,14 @@
 [Round "3"]
 [White "ALittleSpaghetti"]
 [Black "ChesspatzerBerg"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "tina713#7362"]
 [WhiteElo "1478"]
 [BlackElo "1761"]
 
 {[%SevillaID "1882"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -50,14 +50,14 @@
 [Round "3"]
 [White "Capa a"]
 [Black "IamJameel"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "ChessDad#0536"]
 [WhiteElo "1565"]
 [BlackElo "1659"]
 
 {[%SevillaID "1892"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -192,7 +192,7 @@
 [Round "3"]
 [White "pawnzac"]
 [Black "MalangofChess"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "pawnzac#2788"]
 [BlackId "ahmad_raja#7585"]
@@ -200,7 +200,7 @@
 [BlackElo "1505"]
 
 {[%SevillaID "1880"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -208,7 +208,7 @@
 [Round "3"]
 [White "safuya"]
 [Black "Mirrizzi"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1400-1774"]
 [WhiteId "safuya#7702"]
 [BlackId "Mirrizzi#7061"]
@@ -216,7 +216,7 @@
 [BlackElo "1540"]
 
 {[%SevillaID "1879"]}
-*
+1/2-1/2
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -239,7 +239,7 @@
 [Round "3"]
 [White "Snot boy7"]
 [Black "khang421"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "Johnny appleseed#9297"]
 [BlackId "its trudeau #0521"]
@@ -247,7 +247,7 @@
 [BlackElo "1709"]
 
 {[%SevillaID "1881"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]

@@ -59,7 +59,7 @@ Nxe5 13. Bxe5 Qb6 14. b4 Bd6 15. Nb5 Bxe5 16. dxe5 Ng4 17. Nd6+ Ke7 18. Rae1 f6
 [Round "3"]
 [White "Clarkp56"]
 [Black "hluebb"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Verified"]
 [WhiteId "Clarkp56 (#9024)"]
 [BlackId "Namor#3094"]
@@ -67,7 +67,7 @@ Nxe5 13. Bxe5 Qb6 14. b4 Bd6 15. Nb5 Bxe5 16. dxe5 Ng4 17. Nd6+ Ke7 18. Rae1 f6
 [BlackElo "1300"]
 
 {[%SevillaID "1851"]}
-*
+1/2-1/2
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -353,7 +353,7 @@ f3 Qxb2 33. Rxf5+ Ke7 34. Rf7+ 1-0
 [Round "3"]
 [White "Vindice"]
 [Black "Chess Gainz"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "phyllis dietrichson#8612"]
 [BlackId "ChessGainz#3336"]
@@ -361,6 +361,14 @@ f3 Qxb2 33. Rxf5+ Ke7 34. Rf7+ 1-0
 [BlackElo "2325"]
 
 {[%SevillaID "1841"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.22"] [Round "?"] [White
+"Vindice"] [Black "Chess_Gainz"] [Result "0-1"] [ECO "B07"] [WhiteElo "1738"]
+[BlackElo "2316"] [TimeControl "3600+30"] [EndTime "11:20:15 PST"] [Termination
+"Chess_Gainz won by resignation"]  1. d4 d6 2. e4 Nf6 3. Nc3 Nbd7 4. Nf3 e5 5.
+Rg1 c6 6. g4 h6 7. Be3 b5 8. a3 Bb7 9. h4 g6 10. d5 cxd5 11. exd5 a6 12. g5 hxg5
+13. hxg5 Nh5 14. Qe2 Bg7 15. O-O-O Rc8 16. Nd2 Nb6 17. Bxb6 Qxb6 18. Rg4 O-O 19.
+Nde4 Rc4 20. Qf3 Rd4 21. Nf6+ Bxf6 22. gxf6 Rxg4 23. Qxg4 Nxf6 24. Qh4 Kg7 25.
+Bg2 Rh8 26. Qg5 Qxf2 27. Rf1 Qh4 28. Qe3 Qh6 29. Qxh6+ Rxh6 0-1 
+0-1
 
 
