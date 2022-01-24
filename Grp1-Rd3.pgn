@@ -20,7 +20,7 @@
 [Round "3"]
 [White "afmhughes"]
 [Black "litfinish"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "afmhughes"]
 [BlackId "litfinish #5111"]
@@ -28,7 +28,15 @@
 [BlackElo "1733"]
 
 {[%SevillaID "1846"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.22"] [Round "?"] [White
+"AFMhughes"] [Black "litfinish"] [Result "1-0"] [ECO "A07"] [WhiteElo "1616"]
+[BlackElo "1705"] [TimeControl "2700+30"] [EndTime "11:30:04 PST"] [Termination
+"AFMhughes won by resignation"]  1. Nf3 c5 2. g3 d5 3. Bg2 Nc6 4. d4 Bf5 5. O-O
+e6 6. c4 dxc4 7. Ne5 Nge7 8. e4 Nxe5 9. dxe5 Bg6 10. Qa4+ Nc6 11. Rd1 Qc7 12.
+Bf4 Be7 13. Nc3 O-O 14. Nb5 Qb6 15. Qxc4 Rfd8 16. Nd6 Nd4 17. Rac1 Bh5 18. Rd2
+Bxd6 19. exd6 Bf3 20. Rxd4 Bxg2 21. Qxc5 Qxb2 22. Kxg2 b6 23. Rd2 Qf6 24. Bg5
+Qg6 25. Bxd8 Rxd8 26. Qc7 Qg5 27. Qxd8+ Qxd8 28. d7 1-0 
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]

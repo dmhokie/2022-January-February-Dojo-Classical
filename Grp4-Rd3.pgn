@@ -49,7 +49,7 @@
 [Round "3"]
 [White "angryspacevoid"]
 [Black "chessterfish"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1775+"]
 [WhiteId "not a claimed account at all but @stephen"]
 [BlackId "chessterfish#7997"]
@@ -57,7 +57,7 @@
 [BlackElo "1900"]
 
 {[%SevillaID "1900"]}
-*
+1/2-1/2
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -65,7 +65,7 @@
 [Round "3"]
 [White "averagepatzer540"]
 [Black "Silas1070"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "The Slowest #1659"]
 [BlackId "Sil#0049"]
@@ -73,7 +73,7 @@
 [BlackElo "1997"]
 
 {[%SevillaID "1907"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -158,14 +158,14 @@
 [Round "3"]
 [White "KingSideInvasion"]
 [Black "Constantine73"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [BlackId "Constantine#1211"]
 [WhiteElo "1890"]
 [BlackElo "1900"]
 
 {[%SevillaID "1908"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
