@@ -11,7 +11,7 @@
 [WhiteElo "1230"]
 [BlackElo "1134"]
 
-{[%SevillaID "1943"]}
+{[%SevillaID "2012"]}
 0-1
 
 [Event "2022 January/February Dojo Classical"]
@@ -27,7 +27,7 @@
 [WhiteElo "1026"]
 [BlackElo "1170"]
 
-{[%SevillaID "1948"]}
+{[%SevillaID "2017"]}
 0-1
 
 [Event "2022 January/February Dojo Classical"]
@@ -43,7 +43,7 @@
 [WhiteElo "1037"]
 [BlackElo "1212"]
 
-{[%SevillaID "1946"]}
+{[%SevillaID "2014"]}
 0-1
 
 [Event "2022 January/February Dojo Classical"]
@@ -59,7 +59,7 @@
 [WhiteElo "1350"]
 [BlackElo "1151"]
 
-{[%SevillaID "1937"]}
+{[%SevillaID "2006"]}
 1-0
 
 [Event "2022 January/February Dojo Classical"]
@@ -75,7 +75,7 @@
 [WhiteElo "1145"]
 [BlackElo "1248"]
 
-{[%SevillaID "1942"]}
+{[%SevillaID "2011"]}
 0-1
 
 [Event "2022 January/February Dojo Classical"]
@@ -90,7 +90,7 @@
 [WhiteElo "1287"]
 [BlackElo "1380"]
 
-{[%SevillaID "1933"]}
+{[%SevillaID "2002"]}
 1-0
 
 [Event "2022 January/February Dojo Classical"]
@@ -106,7 +106,7 @@
 [WhiteElo "1056"]
 [BlackElo "664"]
 
-{[%SevillaID "1950"]}
+{[%SevillaID "2019"]}
 1-0
 
 [Event "2022 January/February Dojo Classical"]
@@ -122,7 +122,7 @@
 [WhiteElo "1335"]
 [BlackElo "1166"]
 
-{[%SevillaID "1939"]}
+{[%SevillaID "2008"]}
 1-0
 
 [Event "2022 January/February Dojo Classical"]
@@ -138,7 +138,7 @@
 [WhiteElo "1053"]
 [BlackElo "968"]
 
-{[%SevillaID "1949"]}
+{[%SevillaID "2018"]}
 0-1
 
 [Event "2022 January/February Dojo Classical"]
@@ -153,7 +153,7 @@
 [WhiteElo "1194"]
 [BlackElo "1021"]
 
-{[%SevillaID "1947"]}
+{[%SevillaID "2016"]}
 0-1
 
 [Event "2022 January/February Dojo Classical"]
@@ -162,21 +162,21 @@
 [Round "3"]
 [White "Itzael ML"]
 [Black "thorsthunderr"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1400"]
 [WhiteId "Itzael#2872"]
 [BlackId "thorsthunder#4308"]
 [WhiteElo "1268"]
 [BlackElo "1275"]
 
-{[%SevillaID "1936"]}
-*
+{[%SevillaID "2005"]}
+0-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
 [Date "2022.01.17"]
 [Round "3"]
-[White "KC_Master_Piece"]
+[White "KC Master Piece"]
 [Black "shadowfax2121"]
 [Result "1-0"]
 [Section "u1400"]
@@ -185,7 +185,7 @@
 [WhiteElo "1123"]
 [BlackElo "1230"]
 
-{[%SevillaID "1944"]}
+{[%SevillaID "2013"]}
 1-0
 
 [Event "2022 January/February Dojo Classical"]
@@ -201,7 +201,7 @@
 [WhiteElo "861"]
 [BlackElo "1012"]
 
-{[%SevillaID "1952"]}
+{[%SevillaID "2021"]}
 1-0
 
 [Event "2022 January/February Dojo Classical"]
@@ -217,7 +217,7 @@
 [WhiteElo "1384"]
 [BlackElo "1293"]
 
-{[%SevillaID "1932"]}
+{[%SevillaID "2001"]}
 1/2-1/2
 
 [Event "2022 January/February Dojo Classical"]
@@ -233,7 +233,7 @@
 [WhiteElo "1253"]
 [BlackElo "1153"]
 
-{[%SevillaID "1941"]}
+{[%SevillaID "2010"]}
 1-0
 
 [Event "2022 January/February Dojo Classical"]
@@ -249,7 +249,7 @@
 [WhiteElo "1359"]
 [BlackElo "1290"]
 
-{[%SevillaID "1934"]}
+{[%SevillaID "2003"]}
 0-1
 
 [Event "2022 January/February Dojo Classical"]
@@ -265,7 +265,7 @@
 [WhiteElo "949"]
 [BlackElo "618"]
 
-{[%SevillaID "1953"]}
+{[%SevillaID "2022"]}
 1/2-1/2
 
 [Event "2022 January/February Dojo Classical"]
@@ -281,7 +281,7 @@
 [WhiteElo "834"]
 [BlackElo "940"]
 
-{[%SevillaID "1954"]}
+{[%SevillaID "2023"]}
 0-1
 
 [Event "2022 January/February Dojo Classical"]
@@ -290,14 +290,14 @@
 [Round "3"]
 [White "Sandh0g"]
 [Black "marian chicu"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1400"]
 [WhiteId "Sandh0g"]
 [WhiteElo "1057"]
 [BlackElo "950"]
 
-{[%SevillaID "1951"]}
-*
+{[%SevillaID "2020"]}
+0-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -312,7 +312,7 @@
 [WhiteElo "585"]
 [BlackElo "1346"]
 
-{[%SevillaID "1935"]}
+{[%SevillaID "2004"]}
 1-0
 
 [Event "2022 January/February Dojo Classical"]
@@ -328,7 +328,7 @@
 [WhiteElo "1204"]
 [BlackElo "1280"]
 
-{[%SevillaID "1938"]}
+{[%SevillaID "2007"]}
 1-0
 
 [Event "2022 January/February Dojo Classical"]
@@ -344,7 +344,7 @@
 [WhiteElo "1212"]
 [BlackElo "486"]
 
-{[%SevillaID "1945"]}
+{[%SevillaID "2015"]}
 1-0
 
 [Event "2022 January/February Dojo Classical"]
@@ -360,7 +360,7 @@
 [WhiteElo "1150"]
 [BlackElo "1255"]
 
-{[%SevillaID "1940"]}
+{[%SevillaID "2009"]}
 0-1
 
 
