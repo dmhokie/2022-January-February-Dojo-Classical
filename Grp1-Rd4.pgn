@@ -2,6 +2,38 @@
 [Site ""]
 [Date "2022.01.24"]
 [Round "4"]
+[White "1Elliot"]
+[Black "rjawa"]
+[Result "*"]
+[Section "Verified"]
+[WhiteId "ElliotP#2014"]
+[BlackId "rjawa#8992"]
+[WhiteElo "1721"]
+[BlackElo "1779"]
+
+{[%SevillaID "2195"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.24"]
+[Round "4"]
+[White "atbeaty"]
+[Black "Schachmasteo"]
+[Result "*"]
+[Section "Verified"]
+[WhiteId "atbeaty#4969"]
+[BlackId "schachmasteo#2550"]
+[WhiteElo "1400"]
+[BlackElo "2100"]
+
+{[%SevillaID "2197"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.24"]
+[Round "4"]
 [White "backrankbrawler"]
 [Black "afmhughes"]
 [Result "1-0"]
@@ -29,59 +61,89 @@ gxh5 gxh5 55. f5 Ke7 56. Nd5+ Kd6 57. h4 Kd7 58. Nf6+ 1-0
 [Site ""]
 [Date "2022.01.24"]
 [Round "4"]
-[White "Michiko3"]
-[Black "AfterEightTea"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "#MichikoV3"]
-[BlackId "AfterEightTea#6039"]
-[WhiteElo "920"]
-[BlackElo "1346"]
-
-{[%SevillaID "2203"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.24"]
-[Round "4"]
-[White "mfabian55"]
-[Black "BCGolem"]
+[White "Chess Gainz"]
+[Black "sriracha"]
 [Result "1-0"]
 [Section "Verified"]
-[WhiteId "mfabian55#8675"]
-[BlackId "BCGolem#9594"]
-[WhiteElo "2060"]
-[BlackElo "1721"]
+[WhiteId "ChessGainz#3336"]
+[BlackId "dfan#0341"]
+[WhiteElo "2325"]
+[BlackElo "1929"]
 
-{[%SevillaID "2192"]}
-[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.27"] [Round "?"] [White
-"MFabian55"] [Black "BCGolem"] [Result "1-0"] [ECO "C65"] [WhiteElo "2089"]
-[BlackElo "1741"] [TimeControl "2700+30"] [EndTime "17:54:53 PST"] [Termination
-"MFabian55 won by resignation"]  1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 a6 5. Bxc6
-bxc6 6. Nxe5 Qe7 7. Nf3 d5 8. Nc3 Qb4 9. O-O Bg4 10. exd5 cxd5 11. Re1+ Be7 12.
-a3 Qd6 13. h3 Bxf3 14. Qxf3 O-O 15. Bf4 Qd7 16. Re5 c6 17. Rae1 Bd6 18. Rg5 h6
-19. Rxg7 + Kxg7 20. Qg3+ Kh7 21. Bxd6 Rg8 22. Qh2 Rae8 23. Kf1 Rxe1+ 24. Kxe1
-Qe6+ 25. Kd2 Qf5 26. g4 Qf3 27. Ne2 Re8 28. Nd4 Ne4+ 29. dxe4 Qxe4 30. Qf4 Qe1+
-31. Kd3 Qf1+ 32. Kc3 Re4 33. Qxf7+ Kh8 34. Qf8+ Kh7 35. Bc5 Qxh3+ 36. f3 Qg3 37.
-Nxc6 Rf4 38. Qe7+ Kg8 39. Qe6+ Kh7 40. Qd7+ Kg8 41. Qxd5+ Kh7 42. Qd7+ Kg8 43.
-Ne7+ Kh8 44. Bd4+ Rxd4 45. Qxd4+ Kh7 46. Qe4+ Kh8 47. Ng6+ Kg7 48. Qe5+ 1-0 
+{[%SevillaID "2189"]}
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.28"] [Round "?"] [White
+"Chess_Gainz"] [Black "sriracha"] [Result "1-0"] [ECO "C22"] [WhiteElo "2320"]
+[BlackElo "1969"] [TimeControl "3600+30"] [EndTime "10:25:23 PST"] [Termination
+"Chess_Gainz won by resignation"]  1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5.
+Nc3 Bb4 6. Bd2 O-O 7. O-O-O Re8 8. Qg3 Nxe4 9. Nxe4 Rxe4 10. Bf4 Qf6 11. Nh3 h6
+12. Bxc7 d6 13. Bxd6 Rg4 14. Qf3 Bf5 15. Bd3 Bxd6 16. Qxf5 Qxf5 17. Bxf5 Rd4 18.
+c3 Rxd1+ 19. Rxd1 Rd8 20. g3 Bc5 21. Rxd8+ Nxd8 22. Kd2 Kf8 23. Ke2 Ke7 24. Nf4
+Kf6 25. Bc8 b6 26. Nd3 Bd6 27. Ke3 Nc6 28. Ke4 Ne5 29. Nxe5 Bxe5 30. Kd5 Bc7 31.
+Kc6 Bd8 32. Kd7 Be7 33. b4 a5 34. a3 h5 35. Kc7 axb4 36. axb4 Ke5 37. Bb7 h4 38.
+Kxb6 hxg3 39. hxg3 Kd6 40. Be4 Bd8+ 41. Kb7 Bf6 42. c4 Bc3 43. c5+ Ke5 44. c6
+1-0 
 1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
 [Date "2022.01.24"]
 [Round "4"]
-[White "litfinish"]
-[Black "Clarkp56"]
+[White "chessterfish"]
+[Black "ssoroka78"]
 [Result "*"]
 [Section "Verified"]
-[WhiteId "litfinish #5111"]
-[BlackId "Clarkp56 (#9024)"]
-[WhiteElo "1733"]
-[BlackElo "890"]
+[WhiteId "chessterfish#7997"]
+[BlackId "ssoroka#5777"]
+[WhiteElo "1900"]
+[BlackElo "1659"]
 
-{[%SevillaID "2200"]}
+{[%SevillaID "2193"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.24"]
+[Round "4"]
+[White "DonStuard"]
+[Black "kyle b81"]
+[Result "1-0"]
+[Section "Verified"]
+[WhiteId "Ninjamuffin52#9252"]
+[WhiteElo "1112"]
+[BlackElo "1450"]
+
+{[%SevillaID "2202"]}
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.28"] [Round "?"] [White
+"DonStuard"] [Black "kyle_b81"] [Result "1-0"] [ECO "B21"] [WhiteElo "1159"]
+[BlackElo "1326"] [TimeControl "1800+30"] [EndTime "20:01:52 PST"] [Termination
+"DonStuard won by resignation"]  1. e4 c5 2. d4 cxd4 3. c3 d6 4. cxd4 Nc6 5. Bb5
+Bd7 6. d5 Ne5 7. f4 Bxb5 8. fxe5 dxe5 9. Nc3 Ba6 10. Qa4+ Qd7 11. Qxd7+ Kxd7 12.
+Nf3 f6 13. a4 Nh6 14. b4 Bc4 15. Bxh6 gxh6 16. O-O-O Rc8 17. b5 Bb3 18. Rd3 Bxa4
+19. Kb2 Rc4 20. Nd2 Bxb5 21. Nxb5 Rb4+ 22. Rb3 Rxb3+ 23. Nxb3 a6 24. Na7 Bg7 25.
+Rc1 Ra8 26. Nc5+ Kd6 27. Nxb7+ Kd7 28. Nc6 h5 29. Nc5+ Ke8 30. Ne6 Bh6 31. Nc7+
+Kd7 32. Nxa8 Bxc1+ 33. Kxc1 Kd6 34. Kb2 e6 35. Nb6 f5 36. Na5 exd5 37. Nxd5 fxe4
+38. Ne3 Kc5 39. Kc3 Kb5 40. Nec4 h4 41. Kd2 Kb4 42. Ke3 h3 43. g3 Kb5 44. Kxe4
+Kb4 45. Kxe5 Kc3 46. Kf5 Kd3 47. Kg5 Ke4 48. Kh5 Kf3 49. Kh4 Kg2 50. Ne3+ Kxh2
+51. g4 Kg1 52. Kxh3 Kf2 53. Nec4 Kf3 54. Kh4 Kf4 55. Kh5 h6 56. Nb6 Kg3 57. Nd7
+Kf4 58. Nc5 Ke5 59. Nxa6 Kf6 60. Kxh6 Kf7 61. Kh7 Kf6 62. Kh6 Kf7 63. g5 Kg8 64.
+Nc6 Kh8 65. Ne5 Kg8 66. Nc5 Kh8 67. Ne6 Kg8 68. Nf4 Kh8 69. Ne6 Kg8 70. Nc5 Kh8
+71. Nb7 Kg8 72. Nd6 Kh8 73. Nef7+ Kg8 74. g6 Kf8 75. Kh7 Ke7 76. g7 1-0 
+1-0
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.24"]
+[Round "4"]
+[White "EdOnArrival"]
+[Black "PermaChecked"]
+[Result "*"]
+[Section "Verified"]
+[WhiteId "EdOnArrival#0815"]
+[BlackId "Bandit McLooty#5139"]
+[WhiteElo "869"]
+[BlackElo "1153"]
+
+{[%SevillaID "2205"]}
 *
 
 [Event "2022 January/February Dojo Classical"]
@@ -98,6 +160,22 @@ Ne7+ Kh8 44. Bd4+ Rxd4 45. Qxd4+ Kh7 46. Qe4+ Kh8 47. Ng6+ Kg7 48. Qe5+ 1-0
 [BlackElo "2102"]
 
 {[%SevillaID "2191"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.24"]
+[Round "4"]
+[White "hluebb"]
+[Black "scottpost"]
+[Result "*"]
+[Section "Verified"]
+[WhiteId "Namor#3094"]
+[BlackId "ScottMcC"]
+[WhiteElo "1300"]
+[BlackElo "1715"]
+
+{[%SevillaID "2204"]}
 *
 
 [Event "2022 January/February Dojo Classical"]
@@ -131,30 +209,68 @@ Rd4 Be4+ 0-1
 [Site ""]
 [Date "2022.01.24"]
 [Round "4"]
-[White "DonStuard"]
-[Black "kyle b81"]
-[Result "*"]
+[White "litfinish"]
+[Black "Clarkp56"]
+[Result "1-0"]
 [Section "Verified"]
-[WhiteId "Ninjamuffin52#9252"]
-[WhiteElo "1112"]
-[BlackElo "1450"]
+[WhiteId "litfinish #5111"]
+[BlackId "Clarkp56 (#9024)"]
+[WhiteElo "1733"]
+[BlackElo "890"]
 
-{[%SevillaID "2202"]}
-*
+{[%SevillaID "2200"]}
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.29"] [Round "?"] [White
+"litfinish"] [Black "Clarkp56"] [Result "1-0"] [ECO "D43"] [WhiteElo "1721"]
+[BlackElo "876"] [TimeControl "2700+30"] [EndTime "11:52:48 PST"] [Termination
+"litfinish won by checkmate"]  1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. cxd5
+cxd5 6. Bg5 Be7 7. e3 O-O 8. Bd3 a6 9. O-O Nc6 10. Rc1 b5 11. Nxb5 Bb7 12. Nc3
+Rc8 13. Bb1 g6 14. h3 Qd6 15. Bf4 Qd7 16. Ne5 Nxe5 17. Bxe5 Ne8 18. Qe2 f6 19.
+Bf4 Bd6 20. Bxd6 Nxd6 21. Bd3 Rc6 22. b3 f5 23. Na4 Rfc8 24. Nc5 Qe7 25. Rc2 Kf7
+26. Rfc1 Qd8 27. Nxb7 Nxb7 28. Rxc6 Rxc6 29. Rxc6 Qd7 30. Qc2 Kf6 31. Rc7 Qd6
+32. Rxb7 Qf8 33. Rxh7 Qg8 34. Qc7 Kg5 35. Qe7# 1-0 
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
 [Date "2022.01.24"]
 [Round "4"]
-[White "ThorBiddles"]
-[Black "marian chicu"]
+[White "mfabian55"]
+[Black "BCGolem"]
+[Result "1-0"]
+[Section "Verified"]
+[WhiteId "mfabian55#8675"]
+[BlackId "BCGolem#9594"]
+[WhiteElo "2060"]
+[BlackElo "1721"]
+
+{[%SevillaID "2192"]}
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.27"] [Round "?"] [White
+"MFabian55"] [Black "BCGolem"] [Result "1-0"] [ECO "C65"] [WhiteElo "2089"]
+[BlackElo "1741"] [TimeControl "2700+30"] [EndTime "17:54:53 PST"] [Termination
+"MFabian55 won by resignation"]  1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 a6 5. Bxc6
+bxc6 6. Nxe5 Qe7 7. Nf3 d5 8. Nc3 Qb4 9. O-O Bg4 10. exd5 cxd5 11. Re1+ Be7 12.
+a3 Qd6 13. h3 Bxf3 14. Qxf3 O-O 15. Bf4 Qd7 16. Re5 c6 17. Rae1 Bd6 18. Rg5 h6
+19. Rxg7 + Kxg7 20. Qg3+ Kh7 21. Bxd6 Rg8 22. Qh2 Rae8 23. Kf1 Rxe1+ 24. Kxe1
+Qe6+ 25. Kd2 Qf5 26. g4 Qf3 27. Ne2 Re8 28. Nd4 Ne4+ 29. dxe4 Qxe4 30. Qf4 Qe1+
+31. Kd3 Qf1+ 32. Kc3 Re4 33. Qxf7+ Kh8 34. Qf8+ Kh7 35. Bc5 Qxh3+ 36. f3 Qg3 37.
+Nxc6 Rf4 38. Qe7+ Kg8 39. Qe6+ Kh7 40. Qd7+ Kg8 41. Qxd5+ Kh7 42. Qd7+ Kg8 43.
+Ne7+ Kh8 44. Bd4+ Rxd4 45. Qxd4+ Kh7 46. Qe4+ Kh8 47. Ng6+ Kg7 48. Qe5+ 1-0 
+1-0
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.24"]
+[Round "4"]
+[White "Michiko3"]
+[Black "AfterEightTea"]
 [Result "*"]
 [Section "Verified"]
-[WhiteId "Thorbiddles#6429"]
-[WhiteElo "2110"]
-[BlackElo "950"]
+[WhiteId "#MichikoV3"]
+[BlackId "AfterEightTea#6039"]
+[WhiteElo "920"]
+[BlackElo "1346"]
 
-{[%SevillaID "2199"]}
+{[%SevillaID "2203"]}
 *
 
 [Event "2022 January/February Dojo Classical"]
@@ -185,6 +301,33 @@ Qd6 26. Qxa5 e5 27. Qxd8+ 1-0
 [Site ""]
 [Date "2022.01.24"]
 [Round "4"]
+[White "Renek13"]
+[Black "Twan709"]
+[Result "0-1"]
+[Section "Verified"]
+[WhiteId "Renek#6846"]
+[BlackId "Twan709#3245"]
+[WhiteElo "2015"]
+[BlackElo "2054"]
+
+{[%SevillaID "2188"]}
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.26"] [Round "?"] [White
+"Renek13"] [Black "Twan709"] [Result "0-1"] [ECO "D10"] [WhiteElo "2026"]
+[BlackElo "2103"] [TimeControl "2700+30"] [EndTime "17:27:57 PST"] [Termination
+"Twan709 won by resignation"]  1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7
+6. Be2 dxc4 7. a4 Bb4 8. Bxc4 Qa5 9. Bd2 O-O 10. O-O e5 11. Qb3 exd4 12. exd4
+Nb6 13. Bd3 Be6 14. Qc2 Qh5 15. Ne5 Ng4 16. Nf3 Bd6 17. g3 Nc4 18. Ne4 Nxd2 19.
+Qxd2 Be7 20. Qf4 Rad8 21. Rfe1 Rd5 22. Nc3 Bg5 23. Nxg5 Qxh2+ 24. Kf1 Rxg5 25.
+Ke2 Qh5 26. Kd2 Bf5 27. Ne4 Bxe4 28. Bxe4 f5 29. Bd3 Qg6 30. Bc4+ Kh8 31. Re6
+Nf6 32. Rae1 h6 33. Qc7 Rg4 34. Qe7 Rxd4+ 35. Kc3 Rdd8 36. Qxb7 Qg5 37. R1e2
+Ne4+ 38. Kc2 Rd2 + 39. Rxd2 Qxd2+ 40. Kb1 Qd1+ 41. Ka2 Qxa4+ 42. Kb1 Nd2+ 43.
+Kc1 Qxc4+ 44. Kxd2 Qxe6 0-1 
+0-1
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.01.24"]
+[Round "4"]
 [White "sergey carjacking"]
 [Black "Pauli3141"]
 [Result "1-0"]
@@ -210,124 +353,23 @@ Qxc8 18. d6 Rd8 19. Nd5 Nxd5 20. Qxd5 Nd3 21. Bg3 Nxb2 22. Rae1 Bf8 23. Re3 b5
 [Site ""]
 [Date "2022.01.24"]
 [Round "4"]
-[White "EdOnArrival"]
-[Black "PermaChecked"]
-[Result "*"]
+[White "ThorBiddles"]
+[Black "marian chicu"]
+[Result "1-0"]
 [Section "Verified"]
-[WhiteId "EdOnArrival#0815"]
-[BlackId "Bandit McLooty#5139"]
-[WhiteElo "869"]
-[BlackElo "1153"]
+[WhiteId "Thorbiddles#6429"]
+[WhiteElo "2110"]
+[BlackElo "950"]
 
-{[%SevillaID "2205"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.24"]
-[Round "4"]
-[White "1Elliot"]
-[Black "rjawa"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "ElliotP#2014"]
-[BlackId "rjawa#8992"]
-[WhiteElo "1721"]
-[BlackElo "1779"]
-
-{[%SevillaID "2195"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.24"]
-[Round "4"]
-[White "atbeaty"]
-[Black "Schachmasteo"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "atbeaty#4969"]
-[BlackId "schachmasteo#2550"]
-[WhiteElo "1400"]
-[BlackElo "2100"]
-
-{[%SevillaID "2197"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.24"]
-[Round "4"]
-[White "hluebb"]
-[Black "scottpost"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "Namor#3094"]
-[BlackId "ScottMcC"]
-[WhiteElo "1300"]
-[BlackElo "1715"]
-
-{[%SevillaID "2204"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.24"]
-[Round "4"]
-[White "Chess Gainz"]
-[Black "sriracha"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "ChessGainz#3336"]
-[BlackId "dfan#0341"]
-[WhiteElo "2325"]
-[BlackElo "1929"]
-
-{[%SevillaID "2189"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.24"]
-[Round "4"]
-[White "chessterfish"]
-[Black "ssoroka78"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "chessterfish#7997"]
-[BlackId "ssoroka#5777"]
-[WhiteElo "1900"]
-[BlackElo "1659"]
-
-{[%SevillaID "2193"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.01.24"]
-[Round "4"]
-[White "Renek13"]
-[Black "Twan709"]
-[Result "0-1"]
-[Section "Verified"]
-[WhiteId "Renek#6846"]
-[BlackId "Twan709#3245"]
-[WhiteElo "2015"]
-[BlackElo "2054"]
-
-{[%SevillaID "2188"]}
-[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.26"] [Round "?"] [White
-"Renek13"] [Black "Twan709"] [Result "0-1"] [ECO "D10"] [WhiteElo "2026"]
-[BlackElo "2103"] [TimeControl "2700+30"] [EndTime "17:27:57 PST"] [Termination
-"Twan709 won by resignation"]  1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7
-6. Be2 dxc4 7. a4 Bb4 8. Bxc4 Qa5 9. Bd2 O-O 10. O-O e5 11. Qb3 exd4 12. exd4
-Nb6 13. Bd3 Be6 14. Qc2 Qh5 15. Ne5 Ng4 16. Nf3 Bd6 17. g3 Nc4 18. Ne4 Nxd2 19.
-Qxd2 Be7 20. Qf4 Rad8 21. Rfe1 Rd5 22. Nc3 Bg5 23. Nxg5 Qxh2+ 24. Kf1 Rxg5 25.
-Ke2 Qh5 26. Kd2 Bf5 27. Ne4 Bxe4 28. Bxe4 f5 29. Bd3 Qg6 30. Bc4+ Kh8 31. Re6
-Nf6 32. Rae1 h6 33. Qc7 Rg4 34. Qe7 Rxd4+ 35. Kc3 Rdd8 36. Qxb7 Qg5 37. R1e2
-Ne4+ 38. Kc2 Rd2 + 39. Rxd2 Qxd2+ 40. Kb1 Qd1+ 41. Ka2 Qxa4+ 42. Kb1 Nd2+ 43.
-Kc1 Qxc4+ 44. Kxd2 Qxe6 0-1 
-0-1
+{[%SevillaID "2199"]}
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.29"] [Round "?"] [White
+"ThorBiddles"] [Black "marian_chicu"] [Result "1-0"] [ECO "B07"] [WhiteElo
+"2013"] [BlackElo "947"] [TimeControl "2700+30"] [EndTime "10:09:10 PST"]
+[Termination "ThorBiddles won - game abandoned"]  1. e4 d6 2. d4 Nf6 3. Nc3 g6
+4. Be3 Bg7 5. f3 O-O 6. Qd2 c5 7. d5 Nbd7 8. Bh6 Nb6 9. h4 Nh5 10. Bxg7 Kxg7 11.
+Qf2 f5 12. O-O-O fxe4 13. Nxe4 e6 14. dxe6 Bxe6 15. Nxd6 Qf6 16. Nh3 Rad8 17.
+Qxc5 Na4 18. Qb4 Nb6 19. Bc4 Bxc4 20. Nxc4 Rxd1+ 21. Rxd1 Nf4 1-0 
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]

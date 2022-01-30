@@ -19,14 +19,14 @@
 [Round "4"]
 [White "b1under fest"]
 [Black "MajorBatata"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "merls"]
 [WhiteElo "1775"]
 [BlackElo "2031"]
 
 {[%SevillaID "2273"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -34,7 +34,7 @@
 [Round "4"]
 [White "backrankbrawler"]
 [Black "AnarchyPawn2002"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteId "backrankbrawler#4978"]
 [BlackId "Chiefawesome#1056"]
@@ -42,7 +42,7 @@
 [BlackElo "1919"]
 
 {[%SevillaID "2278"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -50,14 +50,14 @@
 [Round "4"]
 [White "chessterfish"]
 [Black "Bob Cohen"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "chessterfish#7997"]
 [WhiteElo "1900"]
 [BlackElo "1825"]
 
 {[%SevillaID "2272"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -156,7 +156,7 @@
 [Round "4"]
 [White "Prab76"]
 [Black "sloppydisk"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteId "Prab76#5267"]
 [BlackId "blob#9129"]
@@ -164,7 +164,7 @@
 [BlackElo "1813"]
 
 {[%SevillaID "2279"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
