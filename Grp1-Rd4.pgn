@@ -4,7 +4,7 @@
 [Round "4"]
 [White "1Elliot"]
 [Black "rjawa"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Verified"]
 [WhiteId "ElliotP#2014"]
 [BlackId "rjawa#8992"]
@@ -12,7 +12,7 @@
 [BlackElo "1779"]
 
 {[%SevillaID "2195"]}
-*
+1/2-1/2
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -20,7 +20,7 @@
 [Round "4"]
 [White "atbeaty"]
 [Black "Schachmasteo"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "atbeaty#4969"]
 [BlackId "schachmasteo#2550"]
@@ -28,7 +28,16 @@
 [BlackElo "2100"]
 
 {[%SevillaID "2197"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.30"] [Round "?"] [White
+"atbeaty"] [Black "Schachmasteo"] [Result "1-0"] [ECO "B12"] [WhiteElo "1443"]
+[BlackElo "2102"] [TimeControl "2700+30"] [EndTime "9:02:30 PST"] [Termination
+"atbeaty won - game abandoned"]  1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6
+6. Nc3 dxc4 7. Bxc4 Nd7 8. Bg5 Be7 9. Nf3 Bg4 10. Be2 Nh6 11. Ne4 Qa5+ 12. Nfd2
+Bxe2 13. Qxe2 Nf5 14. Bxe7 Kxe7 15. O-O Nxd4 16. Qd3 Qxe5 17. Rfe1 Nf5 18. Nc3
+Qd6 19. Qxf5 Kf8 20. Qg5 Rh6 21. Rad1 Qc7 22. Nf3 Nf6 23. Ne5 Kg8 24. Re3 Nd5
+25. Rg3 Rh7 26. Nxd5 cxd5 27. Rc1 Qd6 28. Rgc3 f6 29. Rc8+ Qf8 30. Rxf8+ Rxf8
+31. Qg6 1-0 
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -90,7 +99,7 @@ Kxb6 hxg3 39. hxg3 Kd6 40. Be4 Bd8+ 41. Kb7 Bf6 42. c4 Bc3 43. c5+ Ke5 44. c6
 [Round "4"]
 [White "chessterfish"]
 [Black "ssoroka78"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "chessterfish#7997"]
 [BlackId "ssoroka#5777"]
@@ -98,7 +107,49 @@ Kxb6 hxg3 39. hxg3 Kd6 40. Be4 Bd8+ 41. Kb7 Bf6 42. c4 Bc3 43. c5+ Ke5 44. c6
 [BlackElo "1659"]
 
 {[%SevillaID "2193"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.30"] [Round "-"] [White
+"chessterfish"] [Black "ssoroka78"] [Result "1-0"] [CurrentPosition
+"8/8/P1k5/4Kp2/1P4pp/8/5PPP/8 b - -"] [Timezone "UTC"] [ECO "A30"] [ECOUrl
+"https://www.chess.com/openings/English-Opening-Symmetrical-Variation-2.Nf3"]
+[UTCDate "2022.01.30"] [UTCTime "19:29:02"] [WhiteElo "1922"] [BlackElo "1683"]
+[TimeControl "2700+30"] [Termination "chessterfish won by resignation"]
+[StartTime "19:29:02"] [EndDate "2022.01.30"] [EndTime "21:02:45"] [Link
+"https://www.chess.com/game/live/37309885765"]  1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4.
+e3 e5 {INACCURACY (+1.28)} ({(+0.31) The best move was} 4... Nf6 5. d4 cxd4 6.
+exd4 d5 7. cxd5 Nxd5 8. Qb3 e6 9. Bb5 Bg7 10. Bg5 f6 11. Bd2 O-O 12. O-O Na5 13.
+Qa3 a6 14. Bd3 Nc6 15. Qb3 Na5 16. Qa3 Nc6 17. Qb3 Na5) 5. d4 cxd4 ± 6. exd4
+exd4 7. Nxd4 {Critical move.} 7... Bg7? {MISTAKE (+3.78)} ({(+1.87) The best
+move was} 7... a6 8. Bf4 Bg7 9. Nxc6 Bxc3+ 10. bxc3 dxc6 11. Qxd8+ Kxd8 12.
+O-O-O+ Ke8 13. Re1+ Ne7 14. Be5 Rg8 15. Bf6 Be6 16. g4 b5 17. g5 bxc4 18. Bxc4
+Nd5 19. Be5 Kd7 20. h4 Rge8 21. h5 Bf5 22. h6 a5 23. f4 a4 24. Rhf1 a3 25. Bb3)
+8. Ndb5 Qe7+ {INACCURACY (+ 4.57)} ({(+3.56) The best move was} 8... Nf6 9. Qd6
+Qe7+ 10. Qxe7+ Kxe7 11. Bf4 Kf8 12. Nc7 Rb8 13. Be2 h5 14. Rd1 d6 15. Bxd6+ Kg8
+16. Bf4 Bf5 17. N7b5 Kh7 18. Bxb8 Rxb8 19. Nd6 Be6 20. O-O Ne8 21. Nde4 Kg8 22.
+Ng5 Bxc3 23. Nxe6 Bh8 24. Ng5 Nd4 25. Rfe1 Nf5) 9. Be2 Be5 10. Nd5 Qd8 11. Bg5??
+= {BLUNDER (0.00)} ({(+4.63) The best move was} 11. Qd3 Kf8 12. f4 Bg7 13. Be3
+Nge7 14. O-O-O Nf5 15. Qa3+ Kg8 16. Bb6 Qf8 17. Qxf8+ Kxf8 18. Bc7 h5 19. Nd6
+Nfd4 20. Bf3 Ne6 21. Rhe1 f5 22. a3 b6 23. Nb5 Kf7 24. b4 Re8 25. Nd6+ Kf8 26.
+Nxe8 Kxe8 27. g4) 11... f6?? ± {BLUNDER (+5.19) Critical mistake.} ({(0.00) The
+best move was} 11... Qxg5 12. Nbc7+ Bxc7 13. Nxc7+ Kd8 14. Nxa8 Qa5+ 15. Qd2 b6
+16. Qxa5 bxa5 17. O-O-O Nf6 18. Rd6 Ne4 19. Rd5 Nf6) 12. Bf4 {INACCURACY
+(+4.05)} ({(+5.19) The best move was} 12. f4 Bb8 13. Bh4 Nce7 14. Nbc3 Nf5 15.
+Bf2 h5 16. Qd2 d6 17. O-O-O Be6 18. Rhe1 Kf8 19. Bf3 Bf7 20. Ne3 Nxe3 21. Qxe3
+Nh6 22. Bxb7 Ng4 23. Qf3 Bc7 24. Bxa8 Nxf2 25. Qxf2 Qxa8) 12... Bxf4 13. Nxf4
+{Critical move.} 13... a6 {INACCURACY (+5.71)} ({(+4.21) The best move was}
+13... Qa5+ 14. Qd2 Qxd2+ 15. Kxd2 Rb8 16. Rhe1 Nh6 17. Rad1 O-O 18. Kc3 Nf7 19.
+b4 Kg7 20. Nd5 b6 21. Ndc7 Rd8 22. Bf3 Bb7 23. Bd5 g5 24. a3 a6 25. Bxc6 Bxc6
+26. Nxa6 Ra8 27. Nac7 Bxg2 28. Nxa8 Bxa8) 14. Nd6+ Kf8 15. Qd5 Qa5+ 16. Qxa5
+Nxa5 17. Nd5 Rb8 18. Nb6 Ne7 19. Ndxc8 {INACCURACY (+5.70)} ({(+6.94) The best
+move was} 19. O-O-O Kg7 20. Rhe1 Rf8 21. f4 Kh8 22. Bf3 Ng8 23. h4 f5 24. h5
+gxh5 25. Bxh5 Nc6 26. Bf3 Nf6 27. a3 a5 28. Kb1 Nd8 29. Nxf5 d5 30. Nd6 dxc4)
+19... Rxc8 20. Nxc8 Nxc8 21. O-O-O d6 22. Rd5 Nc6 23. a3 h5 24. Rhd1 Ke7 25. c5
+dxc5 26. Rd7+ Ke8 27. Rxb7 Nd4 28. Bxa6 Rg8 29. Re1+ Kd8 30. Rb8 Kc7 31. Rxc8+
+Rxc8 32. Bxc8 Kxc8 33. Re8+ Kd7 34. Rg8 g5 35. Kd2 Ke6 36. Kd3 Kd5 37. Rd8+ Ke5
+38. Rxd4 cxd4 39. a4 Kd5 40. a5 f5 41. a6 Kc6 42. b4 g4 43. Kxd4 h4 44. Ke5 (44.
+Ke5 Kb6 45. g3 f4 46. Kxf4 hxg3 47. hxg3 Kxa6 48. b5+ Kxb5 49. Kxg4 Kc5 50. Kf5
+Kd4 51. g4 Kd3 52. g5 Ke2 53. f4 Ke3 54. g6 Kd4 55. Ke6 Ke4 56. f5 Kd3 57. g7)
+1-0 
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -136,7 +187,7 @@ Nc6 Kh8 65. Ne5 Kg8 66. Nc5 Kh8 67. Ne6 Kg8 68. Nf4 Kh8 69. Ne6 Kg8 70. Nc5 Kh8
 [Round "4"]
 [White "EdOnArrival"]
 [Black "PermaChecked"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "EdOnArrival#0815"]
 [BlackId "Bandit McLooty#5139"]
@@ -144,7 +195,15 @@ Nc6 Kh8 65. Ne5 Kg8 66. Nc5 Kh8 67. Ne6 Kg8 68. Nf4 Kh8 69. Ne6 Kg8 70. Nc5 Kh8
 [BlackElo "1153"]
 
 {[%SevillaID "2205"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "????.??.??"] [Round "?"] [White
+"EdOnArrival"] [Black "PermaChecked"] [Result "0-1"] [TimeControl "2700+45"]  1.
+e4 c6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 cxd4 6. cxd4 Bg4 7. Be2 e6 8. O-O Nge7
+9. Nc3 Nf5 10. Qb3 Qd7 11. Ng5 Bxe2 12. Nxe2 Ncxd4 13. Nxd4 Nxd4 14. Qc3 Ne2+
+15. Kh1 Nxc3 16. bxc3 h6 17. Nf3 Bc5 18. Nd4 O-O 19. Be3 b6 20. a4 Bxd4 21. cxd4
+Rfc8 22. Rfc1 Rxc1+ 23. Bxc1 a5 24. f4 Rc8 25. Be3 Rc4 26. g4 Rxa4 27. Rg1 Rc4
+28. g5 hxg5 29. fxg5 g6 30. h4 Qa4 31. h5 Rc3 32. Bf4 Rh3+ 33. Kg2 Rxh5 34. Kf3
+Qxd4 35. Kg4 Qxg1+ 0-1 
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -152,7 +211,7 @@ Nc6 Kh8 65. Ne5 Kg8 66. Nc5 Kh8 67. Ne6 Kg8 68. Nf4 Kh8 69. Ne6 Kg8 70. Nc5 Kh8
 [Round "4"]
 [White "falk312"]
 [Black "douglassu2"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Verified"]
 [WhiteId "Falk#8401"]
 [BlackId "douglasu#7327"]
@@ -160,7 +219,19 @@ Nc6 Kh8 65. Ne5 Kg8 66. Nc5 Kh8 67. Ne6 Kg8 68. Nf4 Kh8 69. Ne6 Kg8 70. Nc5 Kh8
 [BlackElo "2102"]
 
 {[%SevillaID "2191"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.29"] [Round "?"] [White
+"falk312"] [Black "douglassu2"] [Result "1/2-1/2"] [ECO "C65"] [WhiteElo "1752"]
+[BlackElo "2103"] [TimeControl "2700+30"] [EndTime "9:05:53 PST"] [Termination
+"Game drawn by agreement"]  1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Be7
+6. c3 O-O 7. h3 a6 8. Ba4 b5 9. Bc2 h6 10. Be3 d5 11. exd5 Nxd5 12. Bc1 Bf6 13.
+Nbd2 Nce7 14. Ne4 Ng6 15. d4 exd4 16. Nxf6+ Qxf6 17. Qxd4 Qxd4 18. Nxd4 Bb7 19.
+Be4 Rae8 20. f3 Re5 21. b3 f5 22. Nxf5 Rfxf5 23. g4 Rf6 24. c4 Rxe4 25. fxe4
+Rxf1+ 26. Kxf1 Nf6 27. cxb5 axb5 28. e5 Nxe5 29. Bf4 Nf3 30. Bxc7 Ng5 31. h4 Nf3
+32. g5 hxg5 33. hxg5 Nxg5 34. a4 bxa4 35. bxa4 Nd5 36. Bd8 Ne6 37. Bh4 Kf7 38.
+a5 Ba6+ 39. Kf2 g5 40. Bg3 Nc5 41. Kg2 Be2 42. Kf2 Bb5 43. Kg2 Na6 44. Bf2 Ke6
+45. Bb6 Kf5 46. Kg3 Bc6 47. Rf1+ Nf4 48. Be3 Ke4 49. Bxf4 gxf4+ 50. Rxf4+ Kd5
+51. Rf5+ Kc4 1/2-1/2 
+1/2-1/2
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -168,7 +239,7 @@ Nc6 Kh8 65. Ne5 Kg8 66. Nc5 Kh8 67. Ne6 Kg8 68. Nf4 Kh8 69. Ne6 Kg8 70. Nc5 Kh8
 [Round "4"]
 [White "hluebb"]
 [Black "scottpost"]
-[Result "*"]
+[Result "0-0"]
 [Section "Verified"]
 [WhiteId "Namor#3094"]
 [BlackId "ScottMcC"]
@@ -176,7 +247,7 @@ Nc6 Kh8 65. Ne5 Kg8 66. Nc5 Kh8 67. Ne6 Kg8 68. Nf4 Kh8 69. Ne6 Kg8 70. Nc5 Kh8
 [BlackElo "1715"]
 
 {[%SevillaID "2204"]}
-*
+0-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -263,7 +334,7 @@ Ne7+ Kh8 44. Bd4+ Rxd4 45. Qxd4+ Kh7 46. Qe4+ Kh8 47. Ng6+ Kg7 48. Qe5+ 1-0
 [Round "4"]
 [White "Michiko3"]
 [Black "AfterEightTea"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "#MichikoV3"]
 [BlackId "AfterEightTea#6039"]
@@ -271,7 +342,16 @@ Ne7+ Kh8 44. Bd4+ Rxd4 45. Qxd4+ Kh7 46. Qe4+ Kh8 47. Ng6+ Kg7 48. Qe5+ 1-0
 [BlackElo "1346"]
 
 {[%SevillaID "2203"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.30"] [Round "?"] [White
+"Michiko3"] [Black "AfterEightTea"] [Result "0-1"] [ECO "A20"] [WhiteElo "828"]
+[BlackElo "1356"] [TimeControl "2700+45"] [EndTime "9:58:55 PST"] [Termination
+"AfterEightTea won by resignation"]  1. c4 e5 2. g3 c6 3. Bg2 d5 4. e3 Nf6 5.
+Nc3 Be6 6. Nge2 d4 7. Ne4 Nxe4 8. Bxe4 dxe3 9. fxe3 Bxc4 10. d3 Bd5 11. O-O Be7
+12. b3 Bxe4 13. dxe4 O-O 14. Bb2 Qxd1 15. Raxd1 f6 16. Nc1 Kf7 17. Nd3 Na6 18.
+a3 Rfd8 19. Nf2 Ke6 20. Rde1 Nc5 21. Ba1 Nxb3 22. Rd1 Nd2 23. Kg2 Nxf1 24. Rxf1
+Bxa3 25. Ng4 Rd2+ 26. Kh3 Rad8 27. Bc3 Rc2 28. Ba5 b6 29. Be1 Rc1 30. Nf2 Bb4
+31. Nd3 Rxd3 32. Bxb4 Rxf1 0-1 
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -377,7 +457,7 @@ Qxc5 Na4 18. Qb4 Nb6 19. Bc4 Bxc4 20. Nxc4 Rxd1+ 21. Rxd1 Nf4 1-0
 [Round "4"]
 [White "yaR 33"]
 [Black "Vindice"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "yaR_33#0033"]
 [BlackId "phyllis dietrichson#8612"]
@@ -385,6 +465,16 @@ Qxc5 Na4 18. Qb4 Nb6 19. Bc4 Bxc4 20. Nxc4 Rxd1+ 21. Rxd1 Nf4 1-0
 [BlackElo "1810"]
 
 {[%SevillaID "2196"]}
-*
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.30"] [Round "?"] [White
+"yaR_33"] [Black "Vindice"] [Result "1-0"] [ECO "D30"] [WhiteElo "1716"]
+[BlackElo "1722"] [TimeControl "3600+30"] [EndTime "10:42:39 PST"] [Termination
+"yaR_33 won by resignation"]  1. d4 d5 2. c4 e6 3. Nf3 Be7 4. g3 Nf6 5. Bg2 O-O
+6. O-O Nbd7 7. Qc2 c5 8. dxc5 Nxc5 9. b4 Ncd7 10. c5 a5 11. Qa4 b6 12. c6 b5 13.
+Qxb5 Ba6 14. Qa4 Nb6 15. Qc2 axb4 16. Bf4 Bd6 17. Nbd2 Bxf4 18. gxf4 Qc7 19. e3
+Bxf1 20. Bxf1 Rfc8 21. Bb5 Ra5 22. Nd4 Ne8 23. N2b3 Raa8 24. Qd2 Nd6 25. Qxb4
+Rcb8 26. a4 Nbc4 27. Rc1 Nb6 28. Nc5 Ndc4 29. Na6 Rxa6 30. Bxa6 Nc8 31. Bb7 N8d6
+32. Nb5 Qb6 33. Rxc4 Nxc4 34. c7 Qxb7 35. cxb8=Q+ Qxb8 36. a5 Qa8 37. Nc7 Qc8
+38. Nb5 g6 39. Nd6 Nxd6 40. Qxd6 Qc1+ 41. Kg2 Qa1 42. Qb8+ Kg7 43. Qe5+ 1-0 
+1-0
 
 
