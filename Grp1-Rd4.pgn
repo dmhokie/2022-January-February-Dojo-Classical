@@ -239,7 +239,7 @@ a5 Ba6+ 39. Kf2 g5 40. Bg3 Nc5 41. Kg2 Be2 42. Kf2 Bb5 43. Kg2 Na6 44. Bf2 Ke6
 [Round "4"]
 [White "hluebb"]
 [Black "scottpost"]
-[Result "0-0"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "Namor#3094"]
 [BlackId "ScottMcC"]
@@ -247,7 +247,22 @@ a5 Ba6+ 39. Kf2 g5 40. Bg3 Nc5 41. Kg2 Be2 42. Kf2 Bb5 43. Kg2 Na6 44. Bf2 Ke6
 [BlackElo "1715"]
 
 {[%SevillaID "2204"]}
-0-0
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.01.29"] [Round "?"] [White
+"HLuebb"] [Black "scottpost"] [Result "1-0"] [ECO "A58"] [WhiteElo "1350"]
+[BlackElo "1695"] [TimeControl "3600+30"] [EndTime "8:47:42 PST"] [Termination
+"HLuebb won by resignation"]  1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6
+Bxa6 6. Nc3 g6 7. g3 Bg7 8. Bg2 d6 9. Nf3 O-O 10. Rb1 Nbd7 11. O-O Ng4 12. h3
+Nge5 13. Re1 Qb6 14. Qc2 Rfb8 15. Bd2 Bc4 16. b3 Ba6 17. Ng5 h6 18. Ne6 fxe6 19.
+dxe6 Nf8 20. Bxa8 Rxa8 21. Nd5 Qd8 22. f4 Nc6 23. f5 Nd4 24. Qe4 Nxf5 25. Kg2
+Ra7 26. Rf1 Bb7 27. Rxf5 gxf5 28. Qxf5 Bxd5+ 29. Qxd5 Qa8 30. Qxa8 Rxa8 31. a4
+Nxe6 32. e3 Kf7 33. Kf3 Ng5+ 34. Kg4 Ne4 35. Be1 Ke6 36. Kf3 d5 37. b4 Rxa4 38.
+bxc5 Nxc5 39. Rb6+ Kd7 40. Bb4 Ne6 41. Rb7+ Nc7 42. Bxe7 Kxe7 43. Rxc7+ Kf8 44.
+Rd7 Ra5 45. Kf4 Kg8 46. g4 Kh7 47. h4 Kg6 48. Rd6+ Kf7 49. Rd7+ Kf8 50. Kf5 Kg8
+51. Kg6 Ra6 + 52. Kf5 Rf6+ 53. Ke5 Rg6+ 54. Kf5 Rf6+ 55. Ke5 Rf7+ 56. Ke6 Rxd7
+57. Kxd7 Kf7 58. Kd6 d4 59. exd4 Bxd4 60. Kd5 Bf2 61. h5 Kf6 62. Ke4 Kg5 63. Kf3
+Bd4 64. Kg3 Be5+ 65. Kf3 Bd6 66. Kg2 Kh4 67. Kh1 Kh3 68. Kg1 Bh2+ 69. Kh1 Kg3
+70. g5 hxg5 71. h6 Kf3 72. Kxh2 1-0 
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
