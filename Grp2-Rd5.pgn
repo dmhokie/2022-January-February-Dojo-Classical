@@ -4,7 +4,7 @@
 [Round "5"]
 [White "an ceithearnach ciuin"]
 [Black "RyanBlunder70"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "Ceithearnach#5889"]
 [BlackId "RyanBlunder70#7440"]
@@ -12,7 +12,7 @@
 [BlackElo "949"]
 
 {[%SevillaID "2321"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -52,7 +52,7 @@
 [Round "5"]
 [White "deputydoug"]
 [Black "Halgilde"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "DeputyDoug#7638"]
 [BlackId "Halgilde#5362"]
@@ -60,7 +60,7 @@
 [BlackElo "1335"]
 
 {[%SevillaID "2308"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -161,14 +161,14 @@
 [Round "5"]
 [White "Itzael ML"]
 [Black "clons87"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "Itzael#2872"]
 [WhiteElo "1268"]
 [BlackElo "1093"]
 
 {[%SevillaID "2309"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -335,7 +335,7 @@
 [Round "5"]
 [White "zacharius zipfelmann"]
 [Black "alt0violistic"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "Pizza123#5556"]
 [BlackId "Kuba_B#5438"]
@@ -343,6 +343,6 @@
 [BlackElo "1230"]
 
 {[%SevillaID "2310"]}
-*
+0-1
 
 

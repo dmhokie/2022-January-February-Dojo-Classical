@@ -4,7 +4,7 @@
 [Round "5"]
 [White "amitt09"]
 [Black "b1under fest"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1775+"]
 [WhiteId "amitbhattrai#8849"]
 [BlackId "merls"]
@@ -12,7 +12,7 @@
 [BlackElo "1775"]
 
 {[%SevillaID "2357"]}
-*
+1/2-1/2
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -36,7 +36,7 @@
 [Round "5"]
 [White "averagepatzer540"]
 [Black "backrankbrawler"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteId "The Slowest #1659"]
 [BlackId "backrankbrawler#4978"]
@@ -44,7 +44,7 @@
 [BlackElo "1833"]
 
 {[%SevillaID "2366"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -52,7 +52,7 @@
 [Round "5"]
 [White "chessterfish"]
 [Black "davalb"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "chessterfish#7997"]
 [BlackId "Ding Liren#8638"]
@@ -60,7 +60,7 @@
 [BlackElo "1908"]
 
 {[%SevillaID "2358"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -68,7 +68,7 @@
 [Round "5"]
 [White "Constantine73"]
 [Black "garridobrown"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "Constantine#1211"]
 [BlackId "diechess#8166"]
@@ -76,7 +76,7 @@
 [BlackElo "1883"]
 
 {[%SevillaID "2369"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -100,7 +100,7 @@
 [Round "5"]
 [White "iridescentmollusc"]
 [Black "Mr Wafhletruck"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteId "LouisBoBo#4702"]
 [BlackId "Mr. Madness (Mr. Waffletruck)#7954"]
@@ -108,7 +108,7 @@
 [BlackElo "1874"]
 
 {[%SevillaID "2365"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -116,14 +116,14 @@
 [Round "5"]
 [White "KaranGite"]
 [Black "sloppydisk"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [BlackId "blob#9129"]
 [WhiteElo "1866"]
 [BlackElo "1813"]
 
 {[%SevillaID "2364"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
