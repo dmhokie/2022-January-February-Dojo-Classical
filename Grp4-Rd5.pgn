@@ -20,7 +20,7 @@
 [Round "5"]
 [White "AnarchyPawn2002"]
 [Black "angryspacevoid"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1775+"]
 [WhiteId "Chiefawesome#1056"]
 [BlackId "not a claimed account at all but @stephen"]
@@ -28,7 +28,7 @@
 [BlackElo "2080"]
 
 {[%SevillaID "2360"]}
-*
+1/2-1/2
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -146,14 +146,14 @@
 [Round "5"]
 [White "ntwapo16"]
 [Black "sweetiepawn"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteId "Ethan W (ntwapo16) #0553"]
 [WhiteElo "1846"]
 [BlackElo "1802"]
 
 {[%SevillaID "2367"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -191,7 +191,7 @@
 [Round "5"]
 [White "Vigg-Sama"]
 [Black "lootikfc"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteId "Vigg-Sama#5567"]
 [BlackId "lootikfc#0672"]
@@ -199,6 +199,6 @@
 [BlackElo "1943"]
 
 {[%SevillaID "2359"]}
-*
+0-1
 
 

@@ -35,7 +35,7 @@
 [Round "5"]
 [White "Capa a"]
 [Black "darth loulou"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "ChessDad#0536"]
 [BlackId "darth_loulou#8084"]
@@ -43,7 +43,7 @@
 [BlackElo "1466"]
 
 {[%SevillaID "2350"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -82,14 +82,14 @@
 [Round "5"]
 [White "ImFiveBucks"]
 [Black "NiteliksizAdam"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "Pieman#2767"]
 [WhiteElo "1650"]
 [BlackElo "1677"]
 
 {[%SevillaID "2341"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -97,14 +97,14 @@
 [Round "5"]
 [White "kirk0536"]
 [Black "Darth Guinness"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [BlackId "patkelly1974#6176"]
 [WhiteElo "1520"]
 [BlackElo "1621"]
 
 {[%SevillaID "2351"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -128,7 +128,7 @@
 [Round "5"]
 [White "KrasivyyeShakhmaty"]
 [Black "olfactory_hues"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "adam_phelan#2905"]
 [BlackId "donloco#1062"]
@@ -136,7 +136,7 @@
 [BlackElo "1525"]
 
 {[%SevillaID "2349"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -223,14 +223,14 @@
 [Round "5"]
 [White "sl0wth1nk3r"]
 [Black "snapfirer"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [BlackId "okrandom #9974"]
 [WhiteElo "1605"]
 [BlackElo "1524"]
 
 {[%SevillaID "2346"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
