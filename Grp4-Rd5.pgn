@@ -84,7 +84,7 @@
 [Round "5"]
 [White "ehoner8"]
 [Black "riobicajet"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1775+"]
 [WhiteId "ehoner8 (#0082)"]
 [BlackId "riobicajet#8166"]
@@ -92,7 +92,7 @@
 [BlackElo "2000"]
 
 {[%SevillaID "2361"]}
-*
+1/2-1/2
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -131,14 +131,14 @@
 [Round "5"]
 [White "Musiclife"]
 [Black "KingSideInvasion"]
-[Result "*"]
+[Result "0-0"]
 [Section "1775+"]
 [WhiteId "AngelOfMusic#4626"]
 [WhiteElo "1790"]
 [BlackElo "1890"]
 
 {[%SevillaID "2363"]}
-*
+0-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -161,14 +161,14 @@
 [Round "5"]
 [White "SuntRoman11"]
 [Black "Prab76"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [BlackId "Prab76#5267"]
 [WhiteElo "1942"]
 [BlackElo "2226"]
 
 {[%SevillaID "2368"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -176,14 +176,14 @@
 [Round "5"]
 [White "tonitrualis"]
 [Black "ada1977"]
-[Result "*"]
+[Result "0-0"]
 [Section "1775+"]
 [WhiteId "Tonus#7609"]
 [WhiteElo "1859"]
 [BlackElo "1930"]
 
 {[%SevillaID "2362"]}
-*
+0-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
