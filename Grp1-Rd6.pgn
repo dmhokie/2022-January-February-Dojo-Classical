@@ -25,7 +25,7 @@ e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O
 [Round "6"]
 [White "AfterEightTea"]
 [Black "afmhughes"]
-[Result "*"]
+[Result "0-0"]
 [Section "Verified"]
 [WhiteId "AfterEightTea#6039"]
 [BlackId "afmhughes"]
@@ -33,7 +33,7 @@ e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O
 [BlackElo "1650"]
 
 {[%SevillaID "2397"]}
-*
+0-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -41,7 +41,7 @@ e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O
 [Round "6"]
 [White "BCGolem"]
 [Black "ssoroka78"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "BCGolem#9594"]
 [BlackId "ssoroka#5777"]
@@ -49,7 +49,7 @@ e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O
 [BlackElo "1659"]
 
 {[%SevillaID "2393"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -112,7 +112,7 @@ Ke5 41. Rxh6 f5 42. gxf5 g4+ 43. Kf2 Rc2+ 44. Kf1 Kxf5 45. Rh8 Ke4 46. Rf8 Kxe3
 [Round "6"]
 [White "Clarkp56"]
 [Black "Michiko3"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "Clarkp56 (#9024)"]
 [BlackId "#MichikoV3"]
@@ -120,7 +120,7 @@ Ke5 41. Rxh6 f5 42. gxf5 g4+ 43. Kf2 Rc2+ 44. Kf1 Kxf5 45. Rh8 Ke4 46. Rf8 Kxe3
 [BlackElo "920"]
 
 {[%SevillaID "2402"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -177,14 +177,14 @@ g6 19. Bxe4 Qf6 20. O-O Rb8 21. Rad1 Rd8 22. Qc7 Rxd1 23. Rxd1 1-0
 [Round "6"]
 [White "marian chicu"]
 [Black "Schachmasteo"]
-[Result "*"]
+[Result "0-0"]
 [Section "Verified"]
 [BlackId "schachmasteo#2550"]
 [WhiteElo "950"]
 [BlackElo "2100"]
 
 {[%SevillaID "2398"]}
-*
+0-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -192,7 +192,7 @@ g6 19. Bxe4 Qf6 20. O-O Rb8 21. Rad1 Rd8 22. Qc7 Rxd1 23. Rxd1 1-0
 [Round "6"]
 [White "Morphonium"]
 [Black "DonStuard"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "Supertoby#3069"]
 [BlackId "Ninjamuffin52#9252"]
@@ -200,7 +200,7 @@ g6 19. Bxe4 Qf6 20. O-O Rb8 21. Rad1 Rd8 22. Qc7 Rxd1 23. Rxd1 1-0
 [BlackElo "1112"]
 
 {[%SevillaID "2399"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -287,7 +287,7 @@ Nxf5 Ke5 38. Ne3 1-0
 [Round "6"]
 [White "Renek13"]
 [Black "sergey carjacking"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Verified"]
 [WhiteId "Renek#6846"]
 [BlackId "sjwsparks"]
@@ -295,7 +295,7 @@ Nxf5 Ke5 38. Ne3 1-0
 [BlackElo "1715"]
 
 {[%SevillaID "2390"]}
-*
+1/2-1/2
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
